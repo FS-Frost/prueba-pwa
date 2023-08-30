@@ -1,0 +1,24 @@
+.search button {
+    height: fit-content;
+    font-size: large;
+}
+
+.facts-search textarea.fact {
+    height: 120px;
+    background-color: white;
+    text-align: justify;
+}
+
+.facts-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.facts-links p {
+    font-size: large;
+}
+
+.facts-debug {
+    align-items: start;
+}
